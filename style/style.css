@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+/* apercu font family */
+@font-face {
+    font-family: Apercu;
+    src: url(../fonts/Apercu\ Light.otf);
+}
+
+
+/* futurak font family */
+@font-face {
+    font-family: futurak;
+    src: url(../fonts/futurak.ttf);
+}
+
+
+.parent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+/* salt n pepper logo */
+.logo{
+    width: 150px;
+    height: 100px;
+    margin-left: 200px;
+}
+
+
+
+div ul{
+    cursor: pointer;
+    font-family: Apercu;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 30px;
+    margin-left: 230px;
+    font-size: 1.5rem;
+}
+
+
+
+div ul li a{
+    text-decoration: none;
+    
+}
+
+
+/* franchise button design */
+.franchise{
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+
+}
+
+
+/* order button design */
+.online{
+    cursor: pointer;
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 30px;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.nav-button{
+    gap: 10px;
+    margin-right: 200px;
+}
+
+button img{
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-left: 6px;
+    width: 18px;
+    height: 20px;
+}
+
+.landing-image{
+    width: 100%;
+}
