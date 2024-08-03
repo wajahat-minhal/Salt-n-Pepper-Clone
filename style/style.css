@@ -1,14 +1,15 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     color: white;
 }
-body{
+
+body {
     background-color: #000000;
 }
 
-html{
+html {
     font-size: 62.5%;
 }
 
@@ -26,7 +27,7 @@ html{
 }
 
 
-.parent{
+.parent {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -34,7 +35,7 @@ html{
 
 
 /* salt n pepper logo */
-.logo{
+.logo {
     width: 150px;
     height: 100px;
     margin-left: 200px;
@@ -42,7 +43,7 @@ html{
 
 
 
-div ul{
+div ul {
     cursor: pointer;
     font-family: Apercu;
     display: flex;
@@ -56,14 +57,14 @@ div ul{
 
 
 
-div ul li a{
+div ul li a {
     text-decoration: none;
-    
+
 }
 
 
 /* franchise button design */
-.franchise{
+.franchise {
     cursor: pointer;
     border: 1px solid #ffffff;
     background-color: #000000;
@@ -78,7 +79,7 @@ div ul li a{
 
 
 /* order button design */
-.online{
+.online {
     cursor: pointer;
     border: 1px solid #ff0000;
     background-color: #ff0000;
@@ -88,15 +89,15 @@ div ul li a{
     justify-content: center;
     align-items: center;
 
-    
+
 }
 
-.nav-button{
+.nav-button {
     gap: 10px;
     margin-right: 200px;
 }
 
-button img{
+button img {
     border: 1px solid white;
     border-radius: 10px;
     margin-left: 6px;
@@ -104,11 +105,11 @@ button img{
     height: 20px;
 }
 
-.landing-image{
+.landing-image {
     width: 100%;
 }
 
-.info{
+.info {
     font-family: Apercu;
     font-size: 4rem;
     text-align: center;
@@ -119,42 +120,42 @@ button img{
 
 }
 
-.brand-logo{
+.brand-logo {
     font-family: futurak;
     font-size: 5rem;
 }
 
-.intro{
+.intro {
     text-align: center;
     font-size: 1.5rem;
     color: #ffffffb3;
-    
+
 }
 
 
-.brands{
-    width:58vw;
+.brands {
+    width: 58vw;
     margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
 
 }
 
-.sub-brands{
+.sub-brands {
     margin: 13px;
     background-color: #ffffff;
     border-radius: 3px;
     padding: 20px;
-    
+
 }
 
-.brands-button{
+.brands-button {
     text-align: center;
     padding-bottom: 60px;
 
 }
 
-.button-design{
+.button-design {
     border: 1px solid #ffffffb3;
     background-color: #000000;
     cursor: pointer;
@@ -164,28 +165,29 @@ button img{
 }
 
 
-.express-button{
+.express-button {
     margin-right: 90px;
 }
-.reserve-button{
+
+.reserve-button {
     margin-left: 20px;
 }
 
-.fourth-div{
+.fourth-div {
     background-color: #0f0f0f;
 }
 
-.brand-info{
+.brand-info {
     font-size: 4.8rem;
     text-align: center;
     width: 50vw;
     padding-top: 60px;
     margin: 0 auto;
     line-height: 50px;
-    
+
 }
 
-.brand-info1{
+.brand-info1 {
     font-family: Apercu;
     font-size: 1.6rem;
     color: #ffffffb3;

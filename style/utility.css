@@ -1,5 +1,91 @@
-.flex{
+.flex {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.display {
+    display: flex;
+}
+
+.justify {
+    justify-content: center;
+}
+
+.align {
+    align-items: center;
+}
+
+
+.salt-n-pepper {
+    font-family: futurak;
+    font-size: 3.2rem;
+    line-height: 50px;
+}
+
+.city {
+    font-family: Apercu;
+    font-size: 1.6rem;
+    font-weight: 500;
+    letter-spacing: 0.48em;
+    color: #ED1C24;
+}
+
+.details {
+    font-family: Apercu;
+    color: #ffffffb3;
+    font-size: 1.6rem;
+
+}
+
+.details-logo {
+    background-color: #ffffffb3;
+    width: 15px;
+    cursor: pointer;
+    margin-top: 10px;
+
+}
+
+.d-button {
+
+    background-color: #ffffffb3;
+    padding: 10px 20px;
+    margin-top: 40px;
+    border-radius: 40px;
+    border: 1px solid #ffffffb3;
+    background-color: #0f0f0f;
+    font-size: 1.4rem;
+
+    cursor: pointer;
+}
+
+.anchor {
+    text-decoration: none;
+    color: #ffffffb3;
+}
+
+.brand-img {
+    width: 480px;
+    border-radius: 5px;
+}
+
+.parent-div {
+    gap: 150px;
+    margin-top: 35px;
+}
+
+.second-child {
+    margin-right: 130px;
+    margin-top: 35px;
+    /* gap: 30px; */
+}
+
+.margin {
+    margin-left: 40px;
+    /* padding-left: 50px; */
+}
+
+.third-child {
+    gap: 170px;
+    margin-top: 35px;
 }
