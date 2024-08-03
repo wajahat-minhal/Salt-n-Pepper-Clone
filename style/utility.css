@@ -16,6 +16,33 @@
     align-items: center;
 }
 
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.text-align{
+    text-align: center;
+}
+
+
+.font-size{
+    font-size: 4rem;
+}
+
+.butler{
+    font-family: butler;
+}
+
 
 .salt-n-pepper {
     font-family: futurak;
@@ -89,3 +116,4 @@
     gap: 120px;
     margin-top: 35px;
 }
+
