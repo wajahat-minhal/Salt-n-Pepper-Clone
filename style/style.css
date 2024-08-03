@@ -206,7 +206,7 @@ button img {
 }
 
 
-.margin-top{
+.margin-top {
     margin-top: 70px;
 }
 
@@ -214,7 +214,7 @@ button img {
 
 /* fifth div designing */
 
-.branch-name{
+.branch-name {
     line-height: 15px;
     font-family: Apercu;
     color: #ED1C24;
@@ -224,7 +224,7 @@ button img {
     letter-spacing: 0.48rem;
 }
 
-.logo-1{
+.logo-1 {
     font-size: 2.4rem;
     margin-bottom: 18px;
     color: #ffffff;
@@ -233,14 +233,14 @@ button img {
     font-weight: 400;
 }
 
-.logo-2{
+.logo-2 {
     font-family: Apercu;
     font-weight: 400;
     font-size: 24px;
     color: #FFFFFF;
 }
 
-.des-1{
+.des-1 {
     font-family: 'Apercu';
     font-style: normal;
     font-weight: 400;
@@ -263,30 +263,31 @@ button img {
     font-size: 1.4rem;
     font-weight: 400;
     cursor: pointer;
-   text-overflow: ellipsis;
+    text-overflow: ellipsis;
 }
 
 
-.img-rad{
+.img-rad {
     border-radius: 3px;
 }
 
-.width-1{
+.width-1 {
     width: 78vw;
     margin: 30px auto;
     gap: 15px;
 }
 
-.card-width{
+.card-width {
     width: 25vw;
     margin: 0 auto;
 }
 
-.mar-le{
+.mar-le {
     margin-left: 200px;
 }
 
-.mar-ri{
+.mar-ri {
     margin-right: 190px;
 }
+
 /* fifth div design complete */

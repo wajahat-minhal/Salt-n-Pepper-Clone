@@ -16,30 +16,30 @@
     align-items: center;
 }
 
-.flex-row{
+.flex-row {
     display: flex;
     flex-direction: row;
 }
 
-.flex-column{
+.flex-column {
     display: flex;
     flex-direction: column;
 }
 
-.flex-wrap{
+.flex-wrap {
     flex-wrap: wrap;
 }
 
-.text-align{
+.text-align {
     text-align: center;
 }
 
 
-.font-size{
+.font-size {
     font-size: 4rem;
 }
 
-.butler{
+.butler {
     font-family: butler;
 }
 
@@ -116,4 +116,3 @@
     gap: 120px;
     margin-top: 35px;
 }
-
