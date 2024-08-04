@@ -292,3 +292,97 @@ button img {
 }
 
 /* fifth div design complete */
+
+
+/* seventh div design */
+
+
+.another-logo{
+    font-family: 'futurak';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 62px;
+    color: #FFFFFF;
+}
+
+.open{
+    font-family: butler;
+    font-size: 2.6rem;
+
+}
+
+.box{
+    height: 230px;
+    width: 320px;
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    text-align: center;
+    padding: 25px 50px;
+    margin: auto;
+    gap: 30px;
+    margin-bottom: 32px;
+}
+
+.open-1{
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    margin-top: 20px;
+    letter-spacing: 0.48em;
+    color: #ED1C24;
+    margin-bottom: 8px;
+    display: inline-block;
+}
+
+.snp{
+    color: #000000 ;
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.snp-1{
+    color: #000000 ;
+    font-size: 2rem;
+    font-weight: 200;
+    line-height: 27px;
+}
+
+
+.box-width{
+    width: 70vw;
+    margin: 0 auto;
+}
+
+.social-img{
+    width: 270px;
+}
+
+.gap{
+    gap: 18px;
+    margin-bottom: 70px;
+}
+
+
+/* last div design */
+
+.f-width{
+    width: 25vw;
+}
+
+
+.footer{
+    padding-bottom: 24px;
+    padding-right: 0px;
+    text-align: left;
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    color: #ffffffb3;
+    margin-top: 20px;
+}

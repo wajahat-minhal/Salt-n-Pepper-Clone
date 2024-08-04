@@ -16,6 +16,10 @@
     align-items: center;
 }
 
+.justify-left{
+    justify-content: left;
+}
+
 .flex-row {
     display: flex;
     flex-direction: row;
@@ -34,14 +38,40 @@
     text-align: center;
 }
 
+.text-left{
+    text-align: left;
+}
+
+.padding-bottom{
+    padding-bottom: 40px;
+}
+
+.padding-top{
+    padding-top: 40px;
+}
+
+
+.margin-bottom{
+    margin-bottom: 30px;
+}
 
 .font-size {
     font-size: 4rem;
 }
 
+.font-size-1 {
+    font-size: 3.2rem;
+    font-weight: 400;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
 .butler {
     font-family: butler;
 }
+
+
+
 
 
 .salt-n-pepper {
@@ -86,6 +116,19 @@
     cursor: pointer;
 }
 
+.btn-green{
+    /* background-color: #ffffffb3; */
+    padding: 10px 20px;
+    margin-top: 40px;
+    border-radius: 40px;
+    /* border: 1px solid #ffffffb3; */
+    background-color: #28a745;
+    font-size: 1.4rem;
+
+    cursor: pointer;
+
+}
+
 .anchor {
     text-decoration: none;
     color: #ffffffb3;
@@ -93,6 +136,15 @@
 
 .brand-img {
     width: 480px;
+    border-radius: 5px;
+}
+
+
+.bg-color1{
+    background-color: #0d0d0d;
+}
+.brand-img-1 {
+    width: 700px;
     border-radius: 5px;
 }
 
