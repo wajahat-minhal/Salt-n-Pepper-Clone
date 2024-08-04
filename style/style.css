@@ -43,13 +43,14 @@ html {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 8px;
 }
 
 
 /* salt n pepper logo */
 .logo {
     width: 150px;
-    height: 100px;
+    height: 70px;
     margin-left: 200px;
 }
 
