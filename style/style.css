@@ -297,7 +297,7 @@ button img {
 /* seventh div design */
 
 
-.another-logo{
+.another-logo {
     font-family: 'futurak';
     font-style: normal;
     font-weight: 400;
@@ -306,13 +306,13 @@ button img {
     color: #FFFFFF;
 }
 
-.open{
+.open {
     font-family: butler;
     font-size: 2.6rem;
 
 }
 
-.box{
+.box {
     height: 230px;
     width: 320px;
     background-color: #FFFFFF;
@@ -324,7 +324,7 @@ button img {
     margin-bottom: 32px;
 }
 
-.open-1{
+.open-1 {
     font-family: 'Apercu';
     font-style: normal;
     font-weight: 500;
@@ -337,30 +337,30 @@ button img {
     display: inline-block;
 }
 
-.snp{
-    color: #000000 ;
+.snp {
+    color: #000000;
     font-size: 2.5rem;
     font-weight: 600;
 }
 
-.snp-1{
-    color: #000000 ;
+.snp-1 {
+    color: #000000;
     font-size: 2rem;
     font-weight: 200;
     line-height: 27px;
 }
 
 
-.box-width{
+.box-width {
     width: 70vw;
     margin: 0 auto;
 }
 
-.social-img{
+.social-img {
     width: 270px;
 }
 
-.gap{
+.gap {
     gap: 18px;
     margin-bottom: 70px;
 }
@@ -368,12 +368,12 @@ button img {
 
 /* last div design */
 
-.f-width{
+.f-width {
     width: 25vw;
 }
 
 
-.footer{
+.footer {
     padding-bottom: 24px;
     padding-right: 0px;
     text-align: left;
@@ -385,4 +385,25 @@ button img {
     letter-spacing: 0.03em;
     color: #ffffffb3;
     margin-top: 20px;
+}
+
+.social-icon{
+    background-color: #ED1C24;
+    border-radius: 30px;
+    width: 35px;
+}
+
+.social-gap{
+gap: 20px;
+padding: 15px;
+}
+
+
+.final-pad{
+    padding: 60px;
+}
+
+.end{
+    width: 90%;
+    margin: 0 auto;
 }
