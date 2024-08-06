@@ -387,23 +387,42 @@ button img {
     margin-top: 20px;
 }
 
-.social-icon{
+.social-icon {
     background-color: #ED1C24;
     border-radius: 30px;
     width: 35px;
 }
 
-.social-gap{
-gap: 20px;
-padding: 15px;
+.social-gap {
+    gap: 20px;
+    padding: 15px;
 }
 
 
-.final-pad{
+.final-pad {
     padding: 60px;
 }
 
-.end{
+.end {
     width: 90%;
     margin: 0 auto;
 }
+
+
+/* About us page styles */
+
+.restaurant {
+    font-size: 3.2rem;
+    font-family: Apercu;
+}
+
+.intro-width {
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.para-width {
+    padding: 35px 98px;
+
+}
+
