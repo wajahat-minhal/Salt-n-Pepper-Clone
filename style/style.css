@@ -275,9 +275,13 @@ button img {
 .width-1 {
     width: 78vw;
     margin: 30px auto;
-    gap: 15px;
+   
 }
 
+.width-2{
+    width: 68vw;
+    margin: 20px auto;
+}
 .card-width {
     width: 25vw;
     margin: 0 auto;
