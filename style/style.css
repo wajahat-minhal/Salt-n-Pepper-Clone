@@ -275,15 +275,24 @@ button img {
 .width-1 {
     width: 78vw;
     margin: 30px auto;
-   
+
 }
 
-.width-2{
+.width-2 {
     width: 68vw;
     margin: 20px auto;
 }
+
 .card-width {
     width: 25vw;
+    margin: 0 auto;
+}
+
+.card-width2 {
+    width: 22vw;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin: 0 auto;
 }
 
@@ -430,3 +439,15 @@ button img {
 
 }
 
+.gap-1 {
+    gap: 60px;
+}
+
+.img-des {
+    width: 300px;
+    border-radius: 5px;
+}
+
+.gap-2 {
+    gap: 15px;
+}
