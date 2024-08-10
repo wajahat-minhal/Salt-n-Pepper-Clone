@@ -50,6 +50,10 @@
     padding-bottom: 40px;
 }
 
+.padding-bottom-1 {
+    padding-bottom: 30px;
+}
+
 .padding-top {
     padding-top: 40px;
 }
@@ -61,6 +65,10 @@
 
 .line-height {
     line-height: 35px;
+}
+
+.line-height-1 {
+    line-height: 25px;
 }
 
 .list-style {

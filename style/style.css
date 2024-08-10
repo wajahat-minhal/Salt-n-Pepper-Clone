@@ -451,3 +451,22 @@ button img {
 .gap-2 {
     gap: 15px;
 }
+
+
+/* publications design */
+
+.bor-rad{
+    width: 470px;
+    height: 540px;
+    margin: 50px 20px;
+    border: 1px solid #ffffffb3;
+}
+
+.bor-rad-img{
+    width: 520px;
+    height: 480px;
+    padding-right: 50px;
+    padding-top: 35px;
+
+}
+
