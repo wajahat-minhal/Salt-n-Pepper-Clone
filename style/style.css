@@ -147,10 +147,11 @@ button img {
 
 
 .brands {
-    width: 58vw;
-    margin-top: 30px;
+    width: 68vw;
+    margin: 40px auto;
+    /* margin-bottom: 30px;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; */
 
 }
 
@@ -162,29 +163,29 @@ button img {
 
 }
 
-.brands-button {
+/* .brands-button {
     text-align: center;
     padding-bottom: 60px;
 
-}
+} */
 
 .button-design {
     border: 1px solid #ffffffb3;
     background-color: #000000;
     cursor: pointer;
     border-radius: 40px;
-    padding: 15px 40px;
-    margin: 10px 65px;
+    padding: 15px 50px;
+    /* margin: 10px 65px; */
 }
 
 
-.express-button {
+/* .express-button {
     margin-right: 90px;
-}
+} */
 
-.reserve-button {
+/* .reserve-button {
     margin-left: 20px;
-}
+} */
 
 .fourth-div {
     background-color: #0f0f0f;
@@ -378,6 +379,10 @@ button img {
     margin-bottom: 70px;
 }
 
+.row-gap {
+    row-gap: 20px;
+
+}
 
 /* last div design */
 
